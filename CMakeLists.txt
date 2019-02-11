@@ -23,6 +23,7 @@ set(SOURCE_FILES
   ${CMAKE_CURRENT_SOURCE_DIR}/include/solvers/ConjugateGradient.hpp
   ${CMAKE_CURRENT_SOURCE_DIR}/include/solvers/BiCGSTABTag.hpp
   ${CMAKE_CURRENT_SOURCE_DIR}/include/solvers/BiCGSTAB.hpp
+  ${CMAKE_CURRENT_SOURCE_DIR}/include/readers/mtx_reader.hpp
   )
 
 # target_sources not necessary for header-only library, but makes it more

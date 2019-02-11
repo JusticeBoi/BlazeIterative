@@ -10,5 +10,6 @@
 #include "solve.hpp"
 
 #include "solvers/solvers.hpp"
+#include "readers/mtx_reader.hpp"
 
 #endif //BLAZE_ITERATIVE_BLAZEITERATIVE_HPP
